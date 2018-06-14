@@ -1,5 +1,3 @@
-# QSTP-ML
-A repository for the Machine Learning QSTP course. Look for assignments and downloads here!
 
 ## Resources
 "Machine Learning" by Stanford on Coursera: https://www.coursera.org/learn/machine-learning
